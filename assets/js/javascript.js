@@ -32,5 +32,5 @@ function imprimir()
     {
         lista += (i + 1) + ". " + frutas[i] + "<br>";
     }
-    registro.innerHTML = lista;
+    registro.innerHTML = lista + "<br>";
 }
