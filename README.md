@@ -1,7 +1,7 @@
 # lista-frutas
 ## Ejercicio evaluado
 >Crear una lista ordenada de frutas y para agregar mas frutas a tu catalogo crea un input y un boton que nos facilitara añadir cualquier fruta que deseemos a la lista.
-
+***
 1. Si una fruta que se ingresa ya se ingreso anteriormente aparece un mensaje y no se agrega al arreglo de frutas
 ```javascript
 if(fruta == frutas[i])
@@ -35,5 +35,5 @@ function imprimir()
     registro.innerHTML = lista + "<br>";
 }
 ```
-1. Pantalla final
+4. Pantalla final
 ![Alt-Text](assets/captura.png)
