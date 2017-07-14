@@ -4,7 +4,7 @@
 ***
 1. Si una fruta que se ingresa ya se ingreso anteriormente aparece un mensaje y no se agrega al arreglo de frutas
 ```javascript
-if(fruta == frutas[i])
+    if(fruta == frutas[i])
 {
     frutaExiste = true;            
     alert("Fruta ya existente");
@@ -37,3 +37,4 @@ function imprimir()
 ```
 4. Pantalla final
 ![Alt-Text](assets/captura.png)
+Se tiene una caja de texto y un boton Agregar para poder interactuar
